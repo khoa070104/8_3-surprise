@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-script: "Dancing Script", cursive;
+  --font-serif: "Lora", serif;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
